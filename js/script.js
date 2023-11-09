@@ -99,5 +99,3 @@ for (let i = 0; i < columns.length; i++) {
   }
   secondWrapper.appendChild(columns[i]);
 }
-
-console.log("github desktop");
